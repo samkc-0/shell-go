@@ -1,4 +1,4 @@
-BINARY=myapp
+BINARY=shell
 BIN_DIR=bin
 
 build:
